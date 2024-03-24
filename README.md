@@ -17,6 +17,6 @@ To know more about me: [jgyasu.github.io](https://jgyasu.github.io)
 
 
 <h3> Badges: </h3>
-<a href="https://api.badgr.io/public/assertions/nenrTtWsRK6fT678BK9Ytw"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/nenrTtWsRK6fT678BK9Ytw/image"></a>
+<a href="https://api.badgr.io/public/assertions/nenrTtWsRK6fT678BK9Ytw?identity__email=jigsindia2003%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/nenrTtWsRK6fT678BK9Ytw/image"></a>
 <a href="https://www.holopin.io/userbadge/cln3htzm636820fmp7rrq2t1j"><img width="150px" height="150px" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16MW5neWQwMjM3bTN6am50c2V6Yng2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0="></a>
 
