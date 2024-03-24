@@ -10,7 +10,7 @@
   challenge: "to contribute actively to the open-source community"
 }
 ```
-To know more about me: [jgyasu.github.io](https://jgyasu.github.io)
+To know more about me, hit: [jgyasu.github.io](https://jgyasu.github.io)
 
 [![Linkedin: jgyasu](https://img.shields.io/badge/-jgyasu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jgyasu/)](https://www.linkedin.com/in/jgyasu/)
 [![GitHub jgyasu](https://img.shields.io/github/followers/jgyasu?label=follow&style=social)](https://github.com/jgyasu)
