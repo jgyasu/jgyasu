@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Jigyasu</h1>
-<h3>Engineering Undergrad at the [National Institute of Technology](https://en.wikipedia.org/wiki/National_Institutes_of_Technology_(India)) Agartala, India</h3>
+<h3>Engineering Undergrad at the <a href="https://en.wikipedia.org/wiki/National_Institutes_of_Technology_(India)" target="_blank" rel="noreferrer"> National Institute of Technology</a>, Agartala, India</h3>
 
 <p> I'm interested in AI, computer graphics, and HCI. And I love the concept of open-source software, it is the epitome of what human collaboration can do.</p>
 
