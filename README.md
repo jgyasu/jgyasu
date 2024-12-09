@@ -5,7 +5,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgyasu&label=Profile%20views&color=0e75b6&style=flat" alt="jgyasu" /> </p>
 
-- 📫 Reachable at: jigyasu@outlook.in
-
 - 📄 Resume: [https://jgyasu.github.io/jigyasu_resume.pdf](https://jgyasu.github.io/jigyasu_resume.pdf)
 
