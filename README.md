@@ -2,4 +2,4 @@ I am an engineering undergraduate at the National Institute of Technology Agarta
 
 I have worked with a team at [AIISC](https://aiisc.ai/), University of South Carolina, researching watermarking methods for LLM-generated content and we're in the process of publishing the research. Back in high school, I wrote a Python library called [Fileaway](https://pypi.org/project/fileaway/), packaged it, and published it on PyPi. I have also contributed to projects in the PyData ecosystem like sktime, SciPy, and scikit-image, which made me realize that contributing to open-source software is the epitome of human collaboration and I love doing it :)
 
-There was a time when I enjoyed coding as a creative process and made a lot of cool stuff, some of them can be found [here](https://www.instagram.com/cheesemaafia/).
+There was a time when I enjoyed coding as a creative process and made a lot of cool stuff, some of them can be found [here](https://www.instagram.com/cheesemaafia/). I hope I get back to it someday!
